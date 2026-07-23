@@ -15,9 +15,10 @@
 ### 💫 About Me
 
 - 🔭 Currently building **edge software for AI-based visual quality control** on NVIDIA Jetson devices at [Maddox AI](https://maddox.ai)
-- 🎓 MSc **International Software Systems Science** — Otto-Friedrich-Universität Bamberg, Germany
-- 🌱 Exploring **LLMs — RAG, fine-tuning, and dataset curation**
-- 💬 Ask me about **Python, ML deployment pipelines, CI/CD automation, and edge devices**
+- 🌱 Exploring **system design & scalable backend architecture** — and finding where **vibecoding** ends and **engineering** begins
+- ⚡ Powered by **chai** (tea) 🍵 and the [Astral](https://astral.sh) stack (`uv`, `ruff`) — big fan of everything they ship
+- 🌍 Speak **Urdu**, **Punjabi**, and **English** — currently learning **German** 🇩🇪
+- 🎮 Off the keyboard: gaming, movies, traveling, and pretty much any physical sport
 
 ---
 
@@ -71,8 +72,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Testing & Code Quality
+#### Testing & Tooling
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-261230?style=for-the-badge&logo=ruff&logoColor=D7FF64)
 ![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=for-the-badge)
 ![Pylint](https://img.shields.io/badge/pylint-1C4E63?style=for-the-badge)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
