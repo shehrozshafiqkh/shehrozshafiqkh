@@ -67,15 +67,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shehrozshafiqkh&theme=github_dark" alt="Profile details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shehrozshafiqkh&theme=github_dark" alt="GitHub stats" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shehrozshafiqkh&theme=github_dark" alt="Top languages" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=shehrozshafiqkh&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
 </p>
 
