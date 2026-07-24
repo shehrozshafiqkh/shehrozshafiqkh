@@ -2,7 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=shehrozshafiqkh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shehroz Shafiq Khan</h1>
+<p align="center">
+  <img src="assets/hello.gif" width="300" alt="Hello"/>
+</p>
+
+<h1 align="center">I'm Shehroz Shafiq Khan</h1>
 <h3 align="center">🚀 Software Engineer @ Maddox AI | Edge AI & ML Deployment | Python Full-Stack</h3>
 
 <p align="center">
